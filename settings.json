@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aNDREI67-Z8Bk.aternos.me",
-    "port": 34101,
+    "ip": "sarigazianadoluuu.aternos.me",
+    "port": 15491,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
